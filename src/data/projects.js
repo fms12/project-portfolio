@@ -118,7 +118,7 @@ export const PROJECTS = [
     icon: "🤖",
     stats: { model: "GPT-4", docs: "50MB", accuracy: "91%" },
     links: {
-      github: "#",
+      github: "https://github.com/fms12/code-play-ground",
       demo: "#",
     },
   },
